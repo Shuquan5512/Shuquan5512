@@ -1,15 +1,15 @@
 <h2 align="center">Hi, I’m Shuquan 👋</h2>
 
 <p align="center">
-Applied AI / ML engineer working on LLM systems, interpretability, and ML infrastructure.  
-MSc in Applied Computing (AI) @ University of Toronto.
+Applied AI / ML engineer working on LLM systems and interpretability. <br>
+MSc in Applied Computing (AI) @ University of Toronto · Research affiliated with the Vector Institute.
 </p>
 
 ---
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuquan5512&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuquan5512&theme=nord_bright" />
 </p>
 
 ---
